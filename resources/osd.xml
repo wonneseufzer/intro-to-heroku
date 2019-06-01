@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:sfdc="http://salesforce.com/2016/federatedsearch/1.0">
-    <ShortName>Wikipedia</ShortName>
-    <Url type="application/atom+xml" sfdc:maxTotalResults="100" sfdc:maxCount="10" template="https://www.googleapis.com/customsearch/v1?key=AIzaSyB46w-w2nfyMU5b5eK-Qxx2h5UtoKizodI&amp;alt=atom&amp;cx=003681533664416959753:gkgnd1qrnvo&amp;q={searchTerms}&amp;start={startIndex?}&amp;num={count?}"/>
-</OpenSearchDescription>
